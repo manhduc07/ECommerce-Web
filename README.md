@@ -1,13 +1,20 @@
 # Web bán hàng với PHP Laravel
+## Thành viên:
+- Trần Lý Bửu
+- Nguyễn Trịnh Tấn Đạt
+- Lê Văn Tân
+- Trần Văn Tuấn Phong
+- Mai Nhật Minh
+- Nguyễn Đức Mạnh
 
 ## Mục tiêu:
 - Xây dựng web báng hàng theo mẫu
 - Thay đổi giao diện
 - Thêm tính năng
 
-## Họp lần 1 (03/12/2022)
+## Họp lần 1 (03/12/2022) -- Procesingg...
 <b>Công việc:</b> Học Lavarel <br>
-<b>Nội dung:</b>Học tutorial về Laravel <br>
+<b>Nội dung:</b> Học tutorial về Laravel <br>
 - Mỗi người tổng hợp 1 file word ngắn gọn về lý thuyết, công dụng, mục đích của các hàm, file,...
 - Hiểu về nguyên lý hoạt động của Laravel
 
@@ -75,4 +82,4 @@
 <b>Nội dung:</b> --- <br>
 
 # Tổng kết
----
+....
